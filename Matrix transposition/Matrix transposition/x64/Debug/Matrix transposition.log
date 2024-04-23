@@ -1,0 +1,4 @@
+﻿  Matrix transposition.cpp
+C:\Users\SSoni\Desktop\Matrix transposition\Matrix transposition\Matrix transposition.cpp(8,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SSoni\Desktop\Matrix transposition\Matrix transposition\Matrix transposition.cpp(9,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Matrix transposition.vcxproj -> C:\Users\SSoni\Desktop\Matrix transposition\x64\Debug\Matrix transposition.exe
